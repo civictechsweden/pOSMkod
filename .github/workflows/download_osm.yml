@@ -1,0 +1,41 @@
+name: Download OSM data and extract postcode data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 1 1 * *' # 1AM every 1st of the month
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install osmium
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y osmium-tool
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - name: Download OSM data
+      run: |
+        mkdir -p ./data
+        wget http://download.openstreetmap.fr/extracts/europe/sweden-latest.osm.pbf -O ./data/sweden-latest.osm.pbf
+    - name: Filter OSM data
+      run: |
+        osmium tags-filter ./data/sweden-latest.osm.pbf nwr/addr:postcode -o ./data/extract.osm.pbf
+    - name: Convert the data
+      run: python convert_osm.py
+    - name: Commit the data
+      uses: nick-fields/retry@v2
+      with:
+        timeout_seconds: 10
+        max_attempts: 5
+        command: |
+          git config --global user.name 'Pierre Mesure (Github Actions)'
+          git config --global user.email 'pierre@mesu.re'
+          git config --global rebase.autoStash true
+          git pull --rebase
+          git add ./data/osm_codes.csv
+          git commit -am "Update the data"
+          git push
