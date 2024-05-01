@@ -15,16 +15,10 @@ jobs:
     - run: pip install -r requirements.txt
     - name: Fetch the data
       run: python download_postnord.py
-    - name: Commit the data
-      uses: nick-fields/retry@v2
-      with:
-        timeout_seconds: 10
-        max_attempts: 5
-        command: |
-          git config --global user.name 'Pierre Mesure (Github Actions)'
-          git config --global user.email 'pierre@mesu.re'
-          git config --global rebase.autoStash true
-          git pull --rebase
-          git add .
-          git commit -am "Update the data"
-          git push
+    - name: Commit and push
+      run: |
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git config --global user.name 'github-actions[bot]'
+        git add .
+        git commit -m 'Update the data' || echo "Nothing to commit"
+        git push

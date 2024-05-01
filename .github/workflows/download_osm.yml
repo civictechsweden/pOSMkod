@@ -26,16 +26,10 @@ jobs:
         osmium tags-filter ./data/sweden-latest.osm.pbf nwr/addr:postcode -o ./data/extract.osm.pbf
     - name: Convert the data
       run: python convert_osm.py
-    - name: Commit the data
-      uses: nick-fields/retry@v2
-      with:
-        timeout_seconds: 10
-        max_attempts: 5
-        command: |
-          git config --global user.name 'Pierre Mesure (Github Actions)'
-          git config --global user.email 'pierre@mesu.re'
-          git config --global rebase.autoStash true
-          git pull --rebase
-          git add ./data/osm_codes.csv
-          git commit -am "Update the data"
-          git push
+    - name: Commit and push
+      run: |
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git config --global user.name 'github-actions[bot]'
+        git add ./data/osm_codes.csv
+        git commit -m 'Update the data' || echo "Nothing to commit"
+        git push
