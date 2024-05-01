@@ -434,6 +434,7 @@ SE,11193,Stockholm
 SE,11196,Stockholm
 SE,11201,Stockholm
 SE,11202,Stockholm
+SE,11213,Stockholm
 SE,11214,Stockholm
 SE,11215,Stockholm
 SE,11216,Stockholm
@@ -488,6 +489,7 @@ SE,11264,Stockholm
 SE,11265,Stockholm
 SE,11266,Stockholm
 SE,11267,Stockholm
+SE,11268,Stockholm
 SE,11269,Stockholm
 SE,11273,Stockholm
 SE,11274,Stockholm
@@ -729,6 +731,7 @@ SE,11646,Stockholm
 SE,11647,Stockholm
 SE,11648,Stockholm
 SE,11649,Stockholm
+SE,11650,Stockholm
 SE,11661,Stockholm
 SE,11662,Stockholm
 SE,11663,Stockholm
@@ -5771,9 +5774,6 @@ SE,33302,Bredaryd
 SE,33303,Reftele
 SE,33304,Burseryd
 SE,33320,Smålandsstenar
-SE,33321,Smålandsstenar
-SE,33322,Smålandsstenar
-SE,33323,Smålandsstenar
 SE,33330,Smålandsstenar
 SE,33331,Smålandsstenar
 SE,33332,Smålandsstenar
@@ -6210,7 +6210,6 @@ SE,37192,Karlskrona
 SE,37193,Karlskrona
 SE,37194,Lyckeby
 SE,37200,Ronneby
-SE,37202,Kallinge
 SE,37220,Ronneby
 SE,37221,Ronneby
 SE,37222,Ronneby
@@ -8272,7 +8271,6 @@ SE,46173,Trollhättan
 SE,46177,Sjuntorp
 SE,46178,Sjuntorp
 SE,46179,Upphärad
-SE,46180,Trollhättan
 SE,46181,Trollhättan
 SE,46182,Trollhättan
 SE,46183,Trollhättan
@@ -8320,8 +8318,6 @@ SE,46261,Vänersborg
 SE,46269,Frändefors
 SE,46273,Vänersborg
 SE,46280,Vänersborg
-SE,46281,Vänersborg
-SE,46282,Vänersborg
 SE,46285,Vänersborg
 SE,46291,Vänersborg
 SE,46293,Vänersborg
@@ -8837,7 +8833,6 @@ SE,51793,Töllsjö
 SE,51794,Töllsjö
 SE,51795,Olsfors
 SE,51796,Hultafors
-SE,51802,Sjömarken
 SE,51821,Sandared
 SE,51822,Sandared
 SE,51830,Sandared
@@ -13304,7 +13299,6 @@ SE,77571,Krylbo
 SE,77595,Folkärna
 SE,77596,Krylbo
 SE,77601,Hedemora
-SE,77606,Långshyttan
 SE,77620,Hedemora
 SE,77621,Hedemora
 SE,77622,Hedemora
@@ -13464,7 +13458,6 @@ SE,78475,Borlänge
 SE,78476,Borlänge
 SE,78477,Borlänge
 SE,78478,Borlänge
-SE,78504,Mockfjärd
 SE,78520,Gagnef
 SE,78521,Gagnef
 SE,78530,Gagnef
