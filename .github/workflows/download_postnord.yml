@@ -2,7 +2,7 @@ name: Download Postnord data
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 1 1 * *' # 1AM every 1st of the month
+    - cron:  '0 2 1 * *' # 2AM every 1st of the month
 jobs:
   download:
     runs-on: ubuntu-latest
