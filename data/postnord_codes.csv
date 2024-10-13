@@ -250,6 +250,7 @@ SE,10642,Stockholm
 SE,10643,Stockholm
 SE,10644,Stockholm
 SE,10645,Stockholm
+SE,10646,Stockholm
 SE,10647,Stockholm
 SE,10648,Stockholm
 SE,10650,Stockholm
@@ -1332,6 +1333,7 @@ SE,13249,Saltsjö-Boo
 SE,13251,Saltsjö-Boo
 SE,13252,Saltsjö-Boo
 SE,13253,Saltsjö-Boo
+SE,13254,Saltsjö-Boo
 SE,13281,Saltsjö-Boo
 SE,13282,Saltsjö-Boo
 SE,13300,Saltsjöbaden
@@ -2213,6 +2215,7 @@ SE,16773,Bromma
 SE,16774,Bromma
 SE,16775,Bromma
 SE,16776,Bromma
+SE,16782,Bromma
 SE,16800,Bromma
 SE,16820,Bromma
 SE,16827,Bromma
@@ -3045,6 +3048,7 @@ SE,19126,Sollentuna
 SE,19127,Sollentuna
 SE,19128,Sollentuna
 SE,19129,Sollentuna
+SE,19131,Sollentuna
 SE,19133,Sollentuna
 SE,19134,Sollentuna
 SE,19135,Sollentuna
@@ -3072,7 +3076,6 @@ SE,19165,Sollentuna
 SE,19181,Sollentuna
 SE,19183,Sollentuna
 SE,19186,Sollentuna
-SE,19189,Sollentuna
 SE,19190,Sollentuna
 SE,19200,Sollentuna
 SE,19205,Sollentuna
@@ -4639,6 +4642,7 @@ SE,26252,Ängelholm
 SE,26253,Ängelholm
 SE,26254,Ängelholm
 SE,26255,Ängelholm
+SE,26256,Ängelholm
 SE,26257,Ängelholm
 SE,26258,Ängelholm
 SE,26260,Ängelholm
@@ -7139,6 +7143,7 @@ SE,42171,Västra Frölunda
 SE,42172,Västra Frölunda
 SE,42173,Västra Frölunda
 SE,42174,Västra Frölunda
+SE,42180,Västra Frölunda
 SE,42200,Hisings Backa
 SE,42202,Hisings Backa
 SE,42203,Hisings Backa
@@ -7388,9 +7393,7 @@ SE,43190,Mölndal
 SE,43200,Varberg
 SE,43201,Varberg
 SE,43202,Varberg
-SE,43203,Träslövsläge
 SE,43205,Tvååker
-SE,43206,Bua
 SE,43207,Veddige
 SE,43208,Rolfstorp
 SE,43210,Varberg
@@ -7627,6 +7630,7 @@ SE,43742,Lindome
 SE,43791,Lindome
 SE,43792,Lindome
 SE,43793,Lindome
+SE,43803,Härryda
 SE,43805,Hindås
 SE,43806,Härryda
 SE,43807,Härryda
@@ -7969,7 +7973,6 @@ SE,44896,Tollered
 SE,44900,Nol
 SE,44911,Nol
 SE,44914,Alafors
-SE,44915,Alafors
 SE,44920,Nödinge
 SE,44921,Nödinge
 SE,44922,Nödinge
@@ -8340,7 +8343,6 @@ SE,46372,Lödöse
 SE,46375,Hjärtum
 SE,46380,Lilla Edet
 SE,46381,Lilla Edet
-SE,46383,Lilla Edet
 SE,46392,Lilla Edet
 SE,46393,Västerlanda
 SE,46394,Lilla Edet
@@ -8981,7 +8983,6 @@ SE,52397,Ulricehamn
 SE,52398,Hökerum
 SE,52399,Hökerum
 SE,52401,Herrljunga
-SE,52402,Ljung
 SE,52420,Herrljunga
 SE,52421,Herrljunga
 SE,52422,Herrljunga
@@ -10512,6 +10513,7 @@ SE,60244,Norrköping
 SE,60245,Norrköping
 SE,60246,Norrköping
 SE,60247,Norrköping
+SE,60251,Norrköping
 SE,60301,Norrköping
 SE,60302,Norrköping
 SE,60336,Norrköping
@@ -10572,7 +10574,6 @@ SE,60596,Norrköping
 SE,60597,Norrköping
 SE,60599,Norrköping
 SE,60801,Norrköping
-SE,60803,Norrköping
 SE,60910,Norrköping
 SE,60911,Norrköping
 SE,61024,Vikbolandet
@@ -10756,7 +10757,6 @@ SE,61595,Valdemarsvik
 SE,61596,Gryt
 SE,61600,Åby
 SE,61621,Åby
-SE,61622,Åby
 SE,61630,Åby
 SE,61631,Åby
 SE,61632,Åby
@@ -11064,6 +11064,8 @@ SE,63511,Eskilstuna
 SE,63512,Eskilstuna
 SE,63513,Eskilstuna
 SE,63514,Eskilstuna
+SE,63515,Eskilstuna
+SE,63516,Eskilstuna
 SE,63517,Näshulta
 SE,63518,Husby-Rekarne
 SE,63519,Eskilstuna
@@ -13930,6 +13932,7 @@ SE,81520,Tierp
 SE,81521,Tierp
 SE,81522,Tierp
 SE,81523,Tierp
+SE,81528,Tierp
 SE,81535,Tierp
 SE,81536,Tierp
 SE,81537,Tierp
@@ -14386,8 +14389,6 @@ SE,83361,Gäddede
 SE,83380,Strömsund
 SE,83381,Strömsund
 SE,83382,Strömsund
-SE,83383,Strömsund
-SE,83384,Strömsund
 SE,83386,Strömsund
 SE,83387,Strömsund
 SE,83391,Norråker
@@ -14460,6 +14461,7 @@ SE,83751,Åre
 SE,83752,Åre
 SE,83771,Duved
 SE,83772,Duved
+SE,83774,Duved
 SE,83775,Vålådalen
 SE,83791,Mattmar
 SE,83792,Mörsil
@@ -14473,19 +14475,13 @@ SE,83799,Storlien
 SE,83801,Frösön
 SE,83820,Frösön
 SE,83821,Frösön
-SE,83826,Frösön
 SE,83827,Frösön
 SE,83871,Frösön
 SE,83872,Frösön
 SE,83873,Frösön
-SE,83874,Frösön
 SE,83876,Frösön
-SE,83877,Frösön
-SE,83878,Frösön
-SE,83880,Frösön
 SE,83881,Frösön
 SE,83882,Frösön
-SE,83883,Frösön
 SE,83905,Östersund
 SE,83928,Östersund
 SE,83929,Östersund
@@ -15215,6 +15211,7 @@ SE,90594,Umeå
 SE,90595,Umeå
 SE,90596,Umeå
 SE,90600,Umeå
+SE,90615,Umeå
 SE,90620,Umeå
 SE,90621,Umeå
 SE,90622,Umeå
@@ -15654,7 +15651,6 @@ SE,93694,Jörn
 SE,93695,Jörn
 SE,93701,Burträsk
 SE,93720,Burträsk
-SE,93721,Burträsk
 SE,93731,Burträsk
 SE,93732,Burträsk
 SE,93733,Bygdsiljum
