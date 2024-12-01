@@ -633,7 +633,6 @@ SE,11460,Stockholm
 SE,11473,Stockholm
 SE,11476,Stockholm
 SE,11478,Stockholm
-SE,11479,Stockholm
 SE,11480,Stockholm
 SE,11482,Stockholm
 SE,11483,Stockholm
@@ -1331,6 +1330,7 @@ SE,13246,Saltsjö-Boo
 SE,13247,Saltsjö-Boo
 SE,13248,Saltsjö-Boo
 SE,13249,Saltsjö-Boo
+SE,13250,Saltsjö-Boo
 SE,13251,Saltsjö-Boo
 SE,13252,Saltsjö-Boo
 SE,13253,Saltsjö-Boo
@@ -1481,6 +1481,7 @@ SE,13647,Haninge
 SE,13648,Handen
 SE,13649,Vega
 SE,13650,Jordbro
+SE,13654,Vega
 SE,13655,Vega
 SE,13656,Vega
 SE,13657,Vega
@@ -1598,6 +1599,7 @@ SE,14105,Kungens Kurva
 SE,14106,Kungens Kurva
 SE,14107,Kungens Kurva
 SE,14108,Kungens Kurva
+SE,14115,Segeltorp
 SE,14116,Segeltorp
 SE,14117,Segeltorp
 SE,14118,Huddinge
@@ -3461,6 +3463,12 @@ SE,20752,Malmö
 SE,20753,Malmö
 SE,20754,Malmö
 SE,20755,Malmö
+SE,20756,Malmö
+SE,20757,Malmö
+SE,20758,Malmö
+SE,20759,Malmö
+SE,20760,Malmö
+SE,20761,Malmö
 SE,20780,Malmö
 SE,20791,Malmö
 SE,20792,Malmö
@@ -9965,6 +9973,7 @@ SE,58199,Linköping
 SE,58200,Linköping
 SE,58202,Linköping
 SE,58203,Linköping
+SE,58211,Linköping
 SE,58212,Linköping
 SE,58213,Linköping
 SE,58214,Linköping
@@ -13136,6 +13145,7 @@ SE,76144,Norrtälje
 SE,76145,Norrtälje
 SE,76146,Norrtälje
 SE,76147,Norrtälje
+SE,76148,Norrtälje
 SE,76149,Norrtälje
 SE,76150,Norrtälje
 SE,76151,Norrtälje
@@ -16170,7 +16180,6 @@ SE,98331,Malmberget
 SE,98332,Malmberget
 SE,98333,Malmberget
 SE,98334,Malmberget
-SE,98335,Malmberget
 SE,98336,Malmberget
 SE,98341,Koskullskulle
 SE,98381,Malmberget
