@@ -2271,6 +2271,7 @@ SE,16875,Bromma
 SE,16876,Bromma
 SE,16877,Bromma
 SE,16878,Bromma
+SE,16879,Bromma
 SE,16900,Solna
 SE,16902,Solna
 SE,16903,Solna
@@ -3039,6 +3040,8 @@ SE,19088,Rosersberg
 SE,19089,Rosersberg
 SE,19090,Stockholm-Arlanda
 SE,19091,Rosersberg
+SE,19092,Rosersberg
+SE,19093,Rosersberg
 SE,19100,Sollentuna
 SE,19102,Sollentuna
 SE,19118,Sollentuna
@@ -3370,7 +3373,6 @@ SE,20517,Malmö
 SE,20518,Malmö
 SE,20519,Malmö
 SE,20520,Malmö
-SE,20521,Malmö
 SE,20522,Malmö
 SE,20523,Malmö
 SE,20525,Malmö
@@ -4421,8 +4423,6 @@ SE,25114,Helsingborg
 SE,25181,Helsingborg
 SE,25182,Ramlösa
 SE,25183,Helsingborg
-SE,25184,Helsingborg
-SE,25185,Helsingborg
 SE,25187,Helsingborg
 SE,25188,Helsingborg
 SE,25189,Helsingborg
@@ -4446,6 +4446,7 @@ SE,25231,Helsingborg
 SE,25232,Helsingborg
 SE,25233,Helsingborg
 SE,25234,Helsingborg
+SE,25235,Helsingborg
 SE,25236,Helsingborg
 SE,25237,Helsingborg
 SE,25238,Helsingborg
@@ -5581,9 +5582,6 @@ SE,30801,Halmstad
 SE,31100,Falkenberg
 SE,31101,Falkenberg
 SE,31103,Långås
-SE,31105,Vinberg
-SE,31106,Heberg
-SE,31109,Ullared
 SE,31110,Falkenberg
 SE,31120,Falkenberg
 SE,31121,Falkenberg
@@ -8807,7 +8805,6 @@ SE,51570,Rydboholm
 SE,51591,Viskafors
 SE,51592,Kinnarumma
 SE,51593,Seglora
-SE,51621,Dalsjöfors
 SE,51622,Dalsjöfors
 SE,51630,Dalsjöfors
 SE,51631,Dalsjöfors
@@ -15696,7 +15693,6 @@ SE,93920,Malå
 SE,93921,Malå
 SE,93931,Malå
 SE,93932,Malå
-SE,93981,Malå
 SE,93991,Rentjärn
 SE,93992,Adak
 SE,93993,Malå
@@ -15996,7 +15992,6 @@ SE,97127,Luleå
 SE,97128,Luleå
 SE,97129,Luleå
 SE,97160,Luleå
-SE,97170,Luleå
 SE,97171,Luleå
 SE,97172,Luleå
 SE,97173,Luleå
